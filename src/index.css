@@ -1,0 +1,29 @@
+/* Algemene instellingen */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* De hele website */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+}
+
+/* Afbeeldingen */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+}
+
+/* Knoppen */
+button {
+  cursor: pointer;
+}
